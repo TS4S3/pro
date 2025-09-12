@@ -1,1 +1,12 @@
-{"next_id": 1, "sessions": []}
+{
+    "next_id": 2,
+    "sessions": [
+        {
+            "file_name": "sessions_9647827633524.session",
+            "start_time": "2025-09-12T13:42:50.641916+03:00",
+            "temporary": false,
+            "user_id": 8027926508,
+            "id": 1
+        }
+    ]
+}
